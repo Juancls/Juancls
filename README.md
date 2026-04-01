@@ -1,7 +1,5 @@
 ## Olá, me chamo Juan Cecilio Silva
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juancls)](https://github.com/Juancls/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancls&layout=compact)
 <p>
 Sou estudante de ADS no IFSP
 </p>
