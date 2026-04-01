@@ -4,7 +4,7 @@
 Sou estudante de ADS no IFSP
 </p>
 <p>
-Pretendo seguir na área como front-end
+Quero me aprofundar no desenvolvimento web, com react e py
 </p>
 <!--
 **Juancls/Juancls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
