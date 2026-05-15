@@ -24,15 +24,15 @@ Sistema Full-Stack completo desenvolvido para gerenciamento de serviços de limp
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juancls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juancls&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanceciliosilva-1613s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanceciliosilva-1613s&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas" height="180em" />
 </p>
 
 ---
 
 ### 📫 Como me encontrar
 
-*   **LinkedIn:** [Juan Cls](https://www.linkedin.com/in/juancls/))
+*   **LinkedIn:** [Juan Cls](https://www.linkedin.com/in/juancls/)
 *   **E-mail:** juanceciliosilva@gmail.com
 
 ---
